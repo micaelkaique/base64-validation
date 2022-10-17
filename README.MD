@@ -9,7 +9,7 @@ Laravel validators for base64 encoded files, includes versions of laravel files 
 
 * Install composer package to your laravel project
 ``` bash
-$ composer require crazybooot/base64-validation
+$ composer require micaelkaique/base64-validation
 ```
 
 ## Using
